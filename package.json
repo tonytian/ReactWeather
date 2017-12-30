@@ -4,7 +4,8 @@
   "description": "react weather app",
   "main": "index.js",
   "scripts": {
-    "test": "hello"
+    "test": "hello", 
+    "start": "node server.js"
   },
   "author": "Tony Tian",
   "license": "MIT",
